@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kaniovsky/gen/issues"
   },
-  "homepage": "https://github.com/kaniovsky/gen#readme"
+  "homepage": "https://github.com/kaniovsky/gen#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
